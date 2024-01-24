@@ -1,5 +1,3 @@
-# Image Classification with PyTorch
-
 ## Project Overview
 
 This Python-based project utilizes PyTorch to perform image classification on different species of flowers. The project is divided into two parts: 
